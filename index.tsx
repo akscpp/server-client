@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import Image, { StaticImageData } from "next/image";
 import Footer from "@/components/organisms/footer";
-import JoinWaitlistModal from "@/components/organisms/modal/join-waitlist";
+import JoinWaitlistModal from "@/components/organisms/modal/join-waitlist"; 
 import Animate from "@/components/atoms/animate";
 import SvgAwwzoOrange from "@/components/icons/awwzo-orange";
 import SvgStars from "@/components/icons/stars";
